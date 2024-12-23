@@ -1,4 +1,4 @@
-# Welcome to Jubin's github.
+# Welcome to Jubin's GitHub.
 
 
 <div align=center>
